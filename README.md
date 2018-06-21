@@ -5,5 +5,5 @@ The noise level estimation function is modified from the [Single-Image Noise Lev
 
 ## References ##
 
-* Lebrun, M., A. Buades, et J. Morel. « A Nonlocal Bayesian Image Denoising Algorithm ». SIAM Journal on Imaging Sciences 6, nᵒ 3 (1 janvier 2013): 1665‑88. doi:10.1137/120874989.
+* Lebrun M, Buades A, Morel J, et al. A Nonlocal Bayesian Image Denoising Algorithm[J]. Siam Journal on Imaging Sciences, 2013, 6(3): 1665-1688.
 * Liu X, Tanaka M, Okutomi M, et al. Single-Image Noise Level Estimation for Blind Denoising[J]. IEEE Transactions on Image Processing, 2013, 22(12): 5226-5237. 
