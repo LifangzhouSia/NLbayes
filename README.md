@@ -1,7 +1,7 @@
 # Non Local Bayes Algorithm #
 This repository contains an implementation of the [Non-Local Bayes algorithm](http://epubs.siam.org/doi/abs/10.1137/120874989).
 
-The noise level estimation function is modified from the [Single-Image Noise Level Estimation for Blind Denoising](https://ieeexplore.ieee.org/abstract/document/6607209/) ,which the matlab implemention provided by the author in matlab community.
+The noise level estimation function is modified from the [Single-Image Noise Level Estimation for Blind Denoising](https://ieeexplore.ieee.org/abstract/document/6607209/). The matlab implemention provided by the author in matlab community.
 
 ## References ##
 
